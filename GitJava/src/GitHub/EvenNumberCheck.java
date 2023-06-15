@@ -12,7 +12,7 @@ public class EvenNumberCheck {
 		String answer = st;
 		return answer;
 	}
-//
+
 	public static void main(String[] args) {
 		EvenNumberCheck ev = new EvenNumberCheck();
 //    	구하는 숫자 값
