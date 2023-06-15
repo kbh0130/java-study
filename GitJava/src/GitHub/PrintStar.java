@@ -13,7 +13,7 @@ public class PrintStar {
 
 		mm = mm / 2;
 //		int mmb = mm - 2;
-
+//
 		for (int i = 0; i < h; i++) {
 
 			for (int i2 = 0; i2 < mm - i; i2++) {
